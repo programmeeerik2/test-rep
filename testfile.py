@@ -1,0 +1,1 @@
+print("hammster zijn keol.")
